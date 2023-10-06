@@ -1,0 +1,111 @@
+Vite Install and Setup
+
+    - Open terminal
+    - Install Vite latest version
+
+      npm create vite@latest
+
+      There are different method to create a vite using
+
+        - npm
+        - yarn
+        - pnpm
+
+    - Type your Project Name
+    - Select a Framework (any one)
+
+        - Vanilla (Selected)
+        - Vue
+        - React
+        - Preact
+        - Lit
+        - Svelte
+        - Solid
+        - Qwik
+        - Others
+
+    - Select a Varient 
+
+        - TypeScript
+        - JavaScript (Selected)
+
+    Application run
+
+        cd project Name
+        npm Install
+        npm run dev
+
+Entry Point:
+
+        index.html
+
+        Open Terminal 
+
+            Enter into the project folder (gpay-ui)
+
+                npm install (Install the Package)
+                
+                npm run dev (http://localhost:5173)
+
+            vite project run successfully
+
+    Remove some file
+
+        - javaScript.svg
+        - counter.js
+        - main.js
+        Goto Public
+            - vite.svg
+
+Install Tailwind CSS
+
+    Framework Guides
+
+     - Select Vite
+    
+     - Install only Tailwind CSS
+
+            npm install -D tailwindcss postcss autoprefixer
+
+                        -D - Development Dependency
+                            
+                        Plugins - Postcss, autoprefixer
+
+            npx tailwindcss init -p
+
+    Add your Template Path
+
+        tailwind.config.js
+
+            content section
+
+                    content: [
+                        "./index.html",
+                        "./src/**/*.{js,ts,jsx,tsx}",
+                    ],
+
+    Create main.css and add tailwind directives
+
+        main.css
+
+            @tailwind base;
+            @tailwind components;
+            @tailwind utilities;
+
+    Run the Project using
+
+        npm run dev
+
+Vite is something different placing images
+
+    - "img" folder place into "public" folder, not for "assets" folder.
+    
+
+
+
+        
+
+
+
+                    
+
