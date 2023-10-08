@@ -5,7 +5,7 @@ export default {
     fontSize: {
       xs: ["11px", "16px"],
       sm: ["14px", "18px"],
-      lg: ["24px", "30px"],
+      lg: ["20px", "25px"],
     },
     extend: {},
   },
