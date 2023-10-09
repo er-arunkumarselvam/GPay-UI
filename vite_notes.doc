@@ -1,3 +1,16 @@
+Framework Guides
+
+    - Next.js based on React js
+    - Gatsby based on React js
+    - Laravel based on PHP
+    - Nuxt based on Vue js
+    - Vite based on modern development server
+
+Vite:
+    - vite based on modern development environment or server.
+    - vite is free and open source.
+    - vite depends on JavaScript
+
 Vite Install and Setup
 
     - Open terminal
@@ -34,6 +47,15 @@ Vite Install and Setup
         cd project Name
         npm Install
         npm run dev
+
+Features of Vite:
+
+    - Instant Server Start (On Demand file serving over native ESM, no bundling required)
+    - Lightning Fast HMR (Hot Module Replacement)
+    - Rich Features (Out of the box support for TypeScript, JSX, CSS and more)
+    - Optimized Build (Pre-configured Rollup build with multipage and library mode support)
+    - Universal Plugins (Rollup-superset plugin interface shared between dev and build)
+    - Fully Typed APIs (Flexiable programmatic APIs with full TypeScript typing)
 
 Entry Point:
 
@@ -99,6 +121,14 @@ Install Tailwind CSS
 Vite is something different placing images
 
     - "img" folder place into "public" folder, not for "assets" folder.
+
+Directly link CSS in HTML file
+
+    <link rel="stylesheet" href="./main.css"> 
+
+    - not using tailwind process like 
+
+    npx tailwindcss -i  ./src/input.css -o ./src/output.css --watch
     
 
 
