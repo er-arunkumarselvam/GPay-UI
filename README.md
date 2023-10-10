@@ -6,5 +6,5 @@ Google Pay simple UI screen built in HTML and Tailwind CSS.
 
 __Screen Shot__:
 
-![Gpay-UI Screen](gpay-ui-screen.png)
+![GPay-UI-Design](<gpay ui screen shot.png>)
 
