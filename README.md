@@ -15,5 +15,5 @@ __Logo & Banner Images:__  https://blog.google/products/google-pay/
 __UI Profile Images:__ https://ui-avatars.com/
 
 __Icons:__ https://icones.js.org/
-![GPay-UI-Design](<gpay ui screen shot.png>)
+
 
