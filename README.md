@@ -7,7 +7,7 @@ I recreated the Google Pay (GPay) user interface using HTML and Tailwind CSS.
 
 ### Screen Shot:
 
-![Alt text](<Gpay UI Screen.png>)
+![GPay UI Screen](./screenshots/Gpay%20UI%20Screen.png)
 
 ### Reference & Credits:
 
@@ -16,5 +16,7 @@ __Logo & Banner Images:__  https://blog.google/products/google-pay/
 __UI Profile Images:__ https://ui-avatars.com/
 
 __Icons:__ https://icones.js.org/
+
+
 
 
